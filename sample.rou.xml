@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-01-03 23:13:49 by Eclipse SUMO netedit Version 1.12.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <route id="r_0" edges="-E1 -E0"/>
+    <route id="r_1" edges="-E1 E2"/>
+    <route id="r_10" edges="-E2 E1"/>
+    <route id="r_11" edges="-E2 E3"/>
+    <route id="r_2" edges="-E1 E3"/>
+    <route id="r_3" edges="E0 E1"/>
+    <route id="r_4" edges="E0 E3"/>
+    <route id="r_5" edges="E0 E2"/>
+    <route id="r_6" edges="-E3 E2"/>
+    <route id="r_7" edges="-E3 E1"/>
+    <route id="r_8" edges="-E3 -E0"/>
+    <route id="r_9" edges="-E2 -E0"/>
+    
+    
+    <vehicle id="v_0" depart="0.00" route="r_0"/>
+    <vehicle id="v_1" depart="0.00" route="r_0"/>
+    <vehicle id="v_10" depart="0.00" color="red" route="r_3"/>
+    <vehicle id="v_11" depart="0.00" color="red" route="r_4"/>
+    <vehicle id="v_12" depart="0.00" color="red" route="r_4"/>
+    <vehicle id="v_13" depart="0.00" color="red" route="r_4"/>
+    <vehicle id="v_14" depart="0.00" color="red" route="r_5"/>
+    <vehicle id="v_15" depart="0.00" color="red" route="r_5"/>
+    <vehicle id="v_16" depart="0.00" color="red" route="r_5"/>
+    <vehicle id="v_17" depart="0.00" color="blue" route="r_6"/>
+    <vehicle id="v_18" depart="0.00" color="blue" route="r_6"/>
+    <vehicle id="v_19" depart="0.00" color="blue" route="r_6"/>
+    <vehicle id="v_2" depart="0.00" route="r_1"/>
+    <vehicle id="v_20" depart="0.00" color="blue" route="r_7"/>
+    <vehicle id="v_21" depart="0.00" color="blue" route="r_7"/>
+    <vehicle id="v_22" depart="0.00" color="blue" route="r_7"/>
+    <vehicle id="v_23" depart="0.00" color="blue" route="r_8"/>
+    <vehicle id="v_24" depart="0.00" color="blue" route="r_8"/>
+     <vehicle id="v_25" depart="0.00" color="blue" route="r_8"/>
+   
+    <vehicle id="v_26" depart="0.00" color="green" route="r_9"/>
+    <vehicle id="v_27" depart="0.00" color="green" route="r_9"/>
+    <vehicle id="v_28" depart="0.00" color="green" route="r_9"/>
+    <vehicle id="v_29" depart="0.00" color="green" route="r_10"/>
+    <vehicle id="v_3" depart="0.00" route="r_1"/>
+    <vehicle id="v_30" depart="0.00" color="green" route="r_10"/>
+    <vehicle id="v_31" depart="0.00" color="green" route="r_10"/>
+    <vehicle id="v_32" depart="0.00" color="green" route="r_11"/>
+    <vehicle id="v_33" depart="0.00" color="green" route="r_11"/>
+    <vehicle id="v_34" depart="0.00" color="green" route="r_11"/>
+    <vehicle id="v_4" depart="0.00" route="r_1"/>
+    <vehicle id="v_5" depart="0.00" route="r_2"/>
+    <vehicle id="v_6" depart="0.00" route="r_2"/>
+    <vehicle id="v_7" depart="0.00" route="r_2"/>
+    <vehicle id="v_8" depart="0.00" color="red" route="r_3"/>
+    <vehicle id="v_9" depart="0.00" color="red" route="r_3"/>
+    <person id="p_1" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+     <person id="p_0" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_2" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_3" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_4" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+     <person id="p_5" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+     <person id="p_6" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_7" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_8" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_9" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+      <person id="p_10" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_11" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_12" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_13" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_14" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+     <person id="p_15" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_16" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_17" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_18" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_19" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+      <person id="p_20" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_21" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_22" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_23" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_24" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+     <person id="p_25" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_26" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_27" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_28" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="p_29" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+     <person id="t_0" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    
+    <person id="t_1" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="t_2" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="t_3" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="t_4" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+    <person id="t_5" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+   
+    <person id="t_6" depart="1.00">
+        <walk from="E1" to="-E1"/>
+    </person>
+</routes>
